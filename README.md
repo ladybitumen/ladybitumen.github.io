@@ -13,7 +13,7 @@
 <p>about: gonna be my second full album! focusing more on guitar and vocals and tape and bollocks. i'll have some more stuff to say when i actually release it obv :&gt;</p>
 <p>&nbsp;.</p>
 <p>&nbsp;.</p>
-<p><img src="https://f4.bcbits.com/img/a2428463782_10.jpg" alt="&quot;the saga of captain Dead&quot;" width="300" height="300" /></p>
+<p><img align="right" src="https://f4.bcbits.com/img/a2428463782_10.jpg" alt="&quot;the saga of captain Dead&quot;" width="300" height="300" /></p>
 
 <h3 style="text-align: right;">"the saga of captain Dead"</h3>
 <p style="text-align: right;">release data: 5th of February, 2026</p>
@@ -30,7 +30,7 @@
 <p>about: this release was&nbsp;definitely a mess! i started out with a middling breakbeat track, which was gonna be the title track of a fully breakbeat ep. instead of making any more tracks, i pissed off and didn't work on it. a few months later, i made another breakbeat track and decided to continue working on the ep. then i started working on a ton of other shit and realised i cared WAYYYY more about the other shit than i did the breakbeat. i tossed the first track and what remained was kinda tonally inconsistant and just plain bad but by the end i was just done. first one i sold! the album art is a heavily edited <a href="https://www.pressandjournal.co.uk/wp-content/uploads/sites/2/2015/09/SpainHero-5.jpg" target="_blank" rel="noopener">photo from the spanish civil war</a>.</p>
 <p>.</p>
 <p>.</p>
-<p>src="https://f4.bcbits.com/img/a2342710213_10.jpg" alt="&quot;One Hand Filming The Other&quot;" width="300" height="300" /></p>
+<p><img align="right" src="https://f4.bcbits.com/img/a2342710213_10.jpg" alt="&quot;One Hand Filming The Other&quot;" width="300" height="300" /></p>
 <h3 style="text-align: right;">"One Hand Filming The Other"</h3>
 <p style="text-align: right;">release date: 28th of October</p>
 <p style="text-align: right;">type: EP</p>
