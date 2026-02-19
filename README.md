@@ -15,14 +15,16 @@
 <p>&nbsp;.</p>
 <p><img style="float: right;" src="https://f4.bcbits.com/img/a2428463782_10.jpg" alt="&quot;the saga of captain Dead&quot;" width="300" height="300" /></p>
 <p>&nbsp;</p>
-<h3 style="text-align: right;">&nbsp;</h3>
-<h3 style="text-align: right;">&nbsp;</h3>
-<h3 style="text-align: right;">&nbsp;</h3>
-<h3 style="text-align: right;">&nbsp;</h3>
-<h3 style="text-align: right;">&nbsp;</h3>
-<h3 style="text-align: right;">&nbsp;</h3>
-<h3 style="text-align: right;">&nbsp;</h3>
-<h3 style="text-align: right;">&nbsp;</h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <h3 style="text-align: right;">"the saga of captain Dead"</h3>
 <p style="text-align: right;">release data: 5th of February, 2026</p>
 <p style="text-align: right;">type: full album</p>
