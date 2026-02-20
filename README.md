@@ -31,7 +31,7 @@
 <p>.</p>
 <p><div style="text-align: right;"><img src="https://f4.bcbits.com/img/a2342710213_10.jpg" alt="&quot;One Hand Filming The Other&quot;" width="300" height="300" /></div></p>
 <h3 style="text-align: right;">"One Hand Filming The Other"</h3>
-<p style="text-align: right;">release date: 28th of October</p>
+<p style="text-align: right;">release date: 28th of October, 2025</p>
 <p style="text-align: right;">type: EP</p>
 <p style="text-align: right;">released on: <a href="https://ladybitumen.bandcamp.com/album/one-hand-filming-the-other" target="_blank" rel="noopener">bandcamp</a>, CD, streaming (<a href="https://open.spotify.com/album/10GiqaaQ7FOiUoFArMg7dZ" target="_blank" rel="noopener">spotify</a>, <a href="https://music.apple.com/us/album/one-hand-filming-the-other-ep/1872313601" target="_blank" rel="noopener">apple music</a>, <a href="https://music.amazon.com/albums/B0GJTHC4G1">amazon music</a>)</p>
 <p style="text-align: right;">about: this EP was my first release. i was really into breakbeat and i enjoyed making it but i had wanted to make much more experimental breakbeat stuff. this EP was also explicitly about something: each track had a direct meaning. i'm not gonna state it because what's the fun in that? this meaning was heavily inspired by the (translated) quote "filming one hand with the other" from the&nbsp;<a title="" href="https://en.wikipedia.org/wiki/Agn%C3%A8s_Varda">agn&egrave;s varda</a> documentary "<a href="https://en.wikipedia.org/wiki/The_Gleaners_and_I" target="_blank" rel="noopener">les glaneurs et la glaneuse</a>", which i also used for the title. the meaning of the quote in the context of the flim is completely detached from its meaning and symbolism within the EP but it "got me thinking" i guess.</p>
