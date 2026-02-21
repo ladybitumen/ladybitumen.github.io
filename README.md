@@ -6,7 +6,7 @@
 <p style="text-align: center;">.</p>
 <h2 style="text-align: center;">releases!!!!!!!:</h2>
 <p><img src="https://f4.bcbits.com/img/a0628412244_10.jpg" alt="&quot;GRB-230307&quot; album cover" width="300" height="300" /></p>
-<h3>"GRB-230307"</h3>
+<h3>"GRB-230307A"</h3>
 <p>release date: UPCOMING!</p>
 <p>type: full album</p>
 <p>released on: not released yet</p>
